@@ -1,0 +1,15 @@
+Sebuah program penyewaan mobil sederhana dengan spesifikasi sebagai berikut :
+Data :
+  0. Kode sewa 
+  1. Nomor Plat Mobil  
+  2. Jenis Mobil  
+  3. Nama Penyewa 
+  4. Lama Sewa
+Spesifikasi Fitur Program
+  0. Program dapat menambahkan, menghapus, dan memperbarui data
+  1. Untuk menghapus data, maka yang menjadi acuannya adalah Kode sewa
+  2. Untuk memperbarui data, Kode sewa menjadi acuan (Kode sewa tidak dapat berubah) dan yang lainnya dapat berubah
+Tambahan Fitur Program :
+  0. Kode sewa dapat berurut  :+10
+   (Misalnya Kode sewa terakhir adalah A10, ketika hendak menambahkan maka Kode sewanya A11 tanpa melakukan input A11)
+  1. Selain dari spesifikasi akan diberikan nilai jika menambah kelebihan program :maks +10
